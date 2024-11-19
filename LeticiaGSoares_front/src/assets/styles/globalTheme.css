@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Roboto Regular';
+    src: url('../fonts/Roboto/Roboto-Regular.ttf');
+}
+@font-face {
+    font-family: 'Roboto Bold';
+    src: url('../fonts/Roboto/Roboto-Bold.ttf');
+}
+@font-face {
+    font-family: 'Concert One';
+    src: url('../fonts/Concert_One/ConcertOne-Regular.ttf');
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Regular';
+    color: #161616;
+}
+
